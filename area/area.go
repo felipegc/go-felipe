@@ -23,5 +23,5 @@ func _TrianguloEq(base, altura float64) float64 {
 }
 
 func Alegria() string {
-	return "Alegria blah saco mano eita"
+	return "Alegria blah saco mano eita agora sim"
 }
